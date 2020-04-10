@@ -96,8 +96,8 @@ author:
   name             : "Hilde Oliver"
   avatar           : "/assets/IMG_4157.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Oceanographer"
-  location         : "Woods Hole, Mass"
-#  email            : "holiver@whoi.edu"
+  location         : "Woods Hole, Mass."
+  email            : "holiver at whoi.edu"
   links:
     - label: "holiver at whoi.edu"
       icon: "fas fa-fw fa-envelope-square"
