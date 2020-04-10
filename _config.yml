@@ -279,7 +279,7 @@ defaults:
       comments: # true
       share: false
       related: false
-  # _pages
+  # pages
   - scope:
       path: ""
       type: pages
