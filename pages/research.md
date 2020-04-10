@@ -1,4 +1,4 @@
-* Glacial meltwater impacts on coastal biogeochemistry*
+**Glacial meltwater impacts on coastal biogeochemistry**
 
 Rising global temperatures and melting polar ice sheets are increasing the delivery of freshwater to high-latitude coastal oceans, which may influence coastal marine ecosystems. Primary producers, in particular, are likely to be impacted by changes in light or nutrient regimes. Understanding the connections between increased glacial meltwater delivery and coastal productivity will ultimately improve projection and management of the effects of climate change.
 
