@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Research"
-    url: https://hildeoliver.github.io/docs/research/
+    url: https://hildeoliver.github.io/docs/_pages/research/
   - title: "Publications"
-    url: https://hildeoliver.github.io/docs/publications/
+    url: https://hildeoliver.github.io/docs/_pages/publications/
   - title: "News"
-    url: https://hildeoliver.github.io/docs/news/
+    url: https://hildeoliver.github.io/docs/_pages/news/
 # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
