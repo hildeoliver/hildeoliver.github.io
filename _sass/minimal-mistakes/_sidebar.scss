@@ -118,7 +118,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  height: 36px;
+  height: 50px;
 
   @include breakpoint($large) {
     display: block;
@@ -128,7 +128,7 @@
 
   img {
     max-width: 110px;
-    border-radius: 50%;
+    border-radius: 25%;
 
     @include breakpoint($large) {
       padding: 5px;
