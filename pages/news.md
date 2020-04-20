@@ -1,3 +1,6 @@
+**February 2020**
+- On Feb. 12 I gave a seminar on my Greenland modeling work to the AOPE Department at WHOI, and on Feb. 21 I gave my early-morning talk at the Ocean Sciences Meeting in San Diego.
+
 **January 2020**
 - I have registered for the 2020 Ocean Sciences Meeting in San Diego, and will be there all week. I will be presenting the research from the last chapter of my dissertation, where I model meltwater-enhanced nutrient export from Greenland’s glacial fjords. Come by my ~~poster on Thursday, Feb 20 from 4-6~~ **talk from 8:00-8:15 AM on Friday, Feb 21** (session HE51A - Moving Beyond Melt: The Impact of Melting Glaciers, Icebergs, and Sea Ice on Ocean Environments)! 
 
@@ -18,4 +21,4 @@
 
 **May 2019**
 - I went to sea (for the first time in nearly five years)! I spent two weeks in the mid-Atlantic bight with the [Shelfbreak Productivity Interdisciplinary Research Operation at the Pioneer Array (SPIROPA)](http://science.whoi.edu/users/olga/SPIROPA/SPIROPA.html) team, with Dennis McGillicuddy as chief scientist. Special thanks to fellow CTD watch leaders Gordon Zhang and Marshall Swartz for all their hard work and patience training me. Looking forward to heading back in July!
-- My new first-author paper in GBC is now typeset and ready for consumption. For this study we used a 1-D model to evaluate the importance of light vs. iron as controlling factors on the extremely productive Antarctic polynya in the Amundsen Sea. [GBC PDF here.](hildeoliver.github.io/papers/Oliver_et_al-2019-Global_Biogeochemical_Cycles.pdf) This study is complementary to our 3D modeling study published earlier this year in JGR, led by Pierre St-Laurent. [JGR PDF here.](hildeoliver.github.io/papers/St-Laurent_et_al-2019-Journal_of_Geophysical_Research__Oceans.pdf)
+- My new first-author paper in GBC is now typeset and ready for consumption. For this study we used a 1-D model to evaluate the importance of light vs. iron as controlling factors on the extremely productive Antarctic polynya in the Amundsen Sea. [GBC PDF here.](https://hildeoliver.github.io/papers/Oliver_et_al-2019-Global_Biogeochemical_Cycles.pdf) This study is complementary to our 3D modeling study published earlier this year in JGR, led by Pierre St-Laurent. [JGR PDF here.](https://hildeoliver.github.io/papers/St-Laurent_et_al-2019-Journal_of_Geophysical_Research__Oceans.pdf)
