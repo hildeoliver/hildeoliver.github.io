@@ -1,4 +1,4 @@
-I am an oceanographer broadly interested in the ways climate-sensitive physical features influence marine biogeochemical cycling, especially in the coastal ocean.
+I am an interdisciplinary oceanographer broadly interested in the ways climate-sensitive physical features influence marine biogeochemical cycling, especially in the coastal ocean.
 
 I am currently investigating how Gulf Stream meanders impact primary productivity in the Mid-Atlantic Bight as a Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/holiver/), under the supervision of Dennis McGillicuddy and Weifeng Gordon Zhang.
 
