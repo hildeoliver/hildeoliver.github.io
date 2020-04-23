@@ -4,4 +4,4 @@ I am currently investigating how Gulf Stream meanders impact primary productivit
 
 For my PhD work at the University of Georgia, I studied the impacts of glacial melting on high latitude coastal primary productivity and nutrient cycling, with focus on Greenland Ice Sheet melt to the Labrador Sea and West Antarctic Ice Sheet melt to the Amundsen Sea Polynya.
 
-Contact: holiver[at]whoi.edu (Hilde is pronounced HIL-də)
+Contact: holiver at whoi.edu (Hilde is pronounced HIL-də)
