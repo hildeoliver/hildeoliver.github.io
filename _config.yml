@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hilde Oliver"
+  name             : #"Hilde Oliver"
   avatar           : "/assets/IMG_4157.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Scholar"
-  location         : "Woods Hole, Mass."
+  bio              : #"Postdoctoral Scholar"
+  location         : #"Woods Hole, Mass."
 #  email            : "holiver at whoi.edu"
   links:
 #    - label: "holiver at whoi.edu"
