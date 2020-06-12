@@ -1,6 +1,6 @@
 **Refereed Publications**
 
-### In revision
+### In review
  **Oliver, H.**, Castelao, R. M., Wang, C., Yager, P. L. Meltwater-enhanced nutrient export from Greenland’s glacial fjords: a sensitivity analysis.
  
 ### 2019
