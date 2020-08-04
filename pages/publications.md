@@ -5,7 +5,7 @@
 
 ### 2020
 
-**Oliver, H.**, Castelao, R. M., Wang, C., & Yager, P. L. (2020). Meltwater-enhanced nutrient export from Greenland’s glacial fjords: a sensitivity analysis. *Journal of Geophysical Research: Oceans*, 125, e2020JC016185 [https://doi.org/10.1029/2020JC016185](https://doi.org/10.1029/2020JC016185)
+**Oliver, H.**, Castelao, R. M., Wang, C., & Yager, P. L. (2020). Meltwater-enhanced nutrient export from Greenland’s glacial fjords: a sensitivity analysis. *Journal of Geophysical Research: Oceans*, 125(7), 1–18 [https://doi.org/10.1029/2020JC016185](https://doi.org/10.1029/2020JC016185)
  
 ### 2019
 
