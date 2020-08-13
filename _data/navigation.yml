@@ -6,8 +6,6 @@ main:
     url: https://hildeoliver.github.io/pages/research
   - title: "News"
     url: https://hildeoliver.github.io/pages/news
-  - title: "CV"
-    url: https://hildeoliver.github.io/assets/CV.pdf
 # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
