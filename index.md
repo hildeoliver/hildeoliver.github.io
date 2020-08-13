@@ -1,6 +1,6 @@
 Hi! I'm Hilde Oliver. I am currently a Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/holiver/).
 
-I study how the changing physical marine environment influences marine biogeochemical cycling. During my PhD at the University of Georgia, I focused on the impacts of glacial melting on subarctic and Antarctic coastal primary productivity and nutrient cycling.
+I study how the changing physical environment influences marine biogeochemical cycling. During my PhD at the University of Georgia, I focused on the impacts of glacial melting on subarctic and Antarctic coastal primary productivity and nutrient cycling.
 
 **[CV](https://hildeoliver.github.io/assets/CV.pdf)**
 
