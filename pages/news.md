@@ -1,3 +1,8 @@
+<figure style="width: 400px" class="align-right">
+  <img src="http://hildeoliver.github.io/assets/fjord.png" alt="">
+  <figcaption>Schematic of fjord-scale modeling done in <a href="https://doi.org/10.1029/2020JC016185">Oliver et al., 2020</a>. Cold, fresh meltwater discharged at the base of the marine-terminating glacier is introduced at the depth of neutral buoyancy, calculated by the half-conical plume model. The colder, fresher glacially modified water (blue arrows) exits the fjord above the warmer and saltier Atlantic Water (red arrow) intruding into the fjord and toward the glacier face.</figcaption>
+</figure> 
+
 **June 2020**
 - The last chapter from my PhD is [published in JGR](https://doi.org/10.1029/2020JC016185). For this work we combined buoyant plume theory with a biogeochemical model in an idealized fjord-scale ROMS model to assess potential important factors on nutrient export beyond the fjord, and found that subglacial discharge rate, grounding depth, and controls on nutrient residence time could all exert a large influence on transport. [Check out ICEPLUME for ROMS here.](https://github.com/ChuningWang/roms-iceplume)
 
