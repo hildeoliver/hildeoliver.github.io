@@ -1,4 +1,4 @@
-<figure style="width: 400px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="http://hildeoliver.github.io/assets/fjord.png" alt="">
   <figcaption>Schematic of fjord-scale modeling done in <a href="https://doi.org/10.1029/2020JC016185">Oliver et al., 2020</a>. Cold, fresh meltwater discharged at the base of the marine-terminating glacier is introduced at the depth of neutral buoyancy, calculated by the half-conical plume model. The colder, fresher glacially modified water (blue arrows) exits the fjord above the warmer and saltier Atlantic Water (red arrow) intruding into the fjord and toward the glacier face.</figcaption>
 </figure> 
