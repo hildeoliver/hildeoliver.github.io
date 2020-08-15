@@ -1,4 +1,7 @@
-<img align="right" width="400" height="400" src="http://hildeoliver.github.io/assets/marine-terminating-glacier.png">
+<figure style="width: 300px" class="align-right">
+  <img src="http://hildeoliver.github.io/assets/marine-terminating-glacier.png" alt="">
+  <figcaption>Conceptual diagram of a buoyant plume at the face of a marine-terminating glacier. </figcaption>
+</figure> 
 
 **Glacial meltwater impacts on coastal biogeochemistry**
 
