@@ -1,6 +1,6 @@
 <figure style="width: 400px" class="align-right">
   <img src="http://hildeoliver.github.io/assets/marine-terminating-glacier.png" alt="">
-  <figcaption>Conceptual diagram of nutrient upwelling by a buoyant plume at the face of a marine-terminating glacier <a href="https://doi.org/10.1029/2020JC016185">(Oliver et al., 2020)</a></figcaption>
+  <figcaption>Conceptual diagram of nutrient upwelling by a buoyant plume at the face of a marine-terminating glacier <a href="https://doi.org/10.1029/2020JC016185">(Oliver et al., 2020)</a>.</figcaption>
 </figure> 
 
 **Glacial meltwater impacts on coastal biogeochemistry**
