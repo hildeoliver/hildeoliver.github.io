@@ -9,8 +9,12 @@ Rising global temperatures and melting polar ice sheets are increasing the deliv
 
 I study how ice sheet melting influences phytoplankton productivity through the availability of photosynthetically active radiation (PAR) and bioavailable nutrients. My dissertation focused on two regions experiencing large increases in glacial meltwater delivery to the ocean: Greenland's shelves <a href="https://doi.org/10.1002/2018JC013802">(Oliver et al., 2018)</a> and fjords <a href="https://doi.org/10.1029/2020JC016185">(Oliver et al., 2020)</a>, and the Amundsen Sea Polynya (ASP) in the coastal Antarctic <a href="https://doi.org/10.1029/2018GB006168">(Oliver et al., 2019)</a>. In both regions, I coupled physical and biogeochemical modeling to understand the sensitivity of phytoplankton to meltwater-driven changes in the physical and chemical regimes. 
 
+<figure style="width: 400px" class="align-right">
+  <img src="http://hildeoliver.github.io/assets/fig1_2parts.png" alt="">
+  <figcaption>Satellite SST for June-July 2019, showing the intrusion of a warm-core ring and a Gulf Stream meander onto the continental slope.</figcaption>
+</figure> 
 
-### Gulf Stream impacts on productivity in the Mid-Atlantic Bight
+### Gulf Stream impacts on productivity in the Northwest North Atlantic
 
 In recent decades, the Gulf Stream in the slope sea south of the New England shelfbreak has destabilized; vigorous meanders now characterize the former relatively straight and stable jet. To understand the implications of an increasingly meandering Gulf Stream for marine ecosystems in the New England shelfbreak region, my postdoctoral research seeks to 1) isolate the mechanisms by which meanders and warm core rings influence light and nutrient conditions for phytoplankton growth, and 2) determine how these mechanisms scale across time and space, using both modeling and observational approaches.
 
