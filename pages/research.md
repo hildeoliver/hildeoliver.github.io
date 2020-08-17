@@ -11,7 +11,7 @@ I study how ice sheet melting influences phytoplankton productivity through the 
 
 <figure style="width: 400px" class="align-right">
   <img src="http://hildeoliver.github.io/assets/fig1_2parts.png" alt="">
-  <figcaption>Satellite SST for June-July 2019, showing the intrusion of a warm-core ring and a Gulf Stream meander onto the continental slope.</figcaption>
+  <figcaption>Snapshots of satellite sea surface temperature for June-July 2019, showing the intrusion of a warm-core ring and a Gulf Stream meander onto the continental slope. The grey box in the top panel indicates the bottom panel domain.</figcaption>
 </figure> 
 
 ### Gulf Stream impacts on productivity in the Northwest North Atlantic
