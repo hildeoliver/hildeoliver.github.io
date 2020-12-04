@@ -1,7 +1,7 @@
 **Refereed Publications**
 
 ### Submitted
-**Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. *Extraordinary diatom blooms driven by western boundary current instability.*
+**Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. *Diatom hotspots driven by western boundary current instability.*
 
 ### 2020
 
