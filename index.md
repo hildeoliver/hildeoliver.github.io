@@ -5,4 +5,4 @@ I am currently a Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/hol
 **[CV](https://hildeoliver.github.io/assets/OliverH_CV.pdf)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Google Scholar](https://scholar.google.com/citations?user=FwMvxsMAAAAJ&hl=en&oi=ao)**
 
-Get in touch: holiver at whoi dot edu (Hilde is pronounced HIL-də, pronouns are she/hers)
+Get in touch: holiver at whoi dot edu (Hilde is pronounced HIL-də, pronouns are she/her)
