@@ -1,5 +1,5 @@
 **December 2020**
-- From December 26 till February 23, I will be aboard the R/V Roger Revelle on a cruise to the Pacific sector of the Southern Ocean to investigate the biological and chemical conditioning of Sub-Antarctic Mode Water. I will have limited email access during this period.
+- From December 26 till February 23, I will be aboard the R/V Roger Revelle on a cruise to the Pacific sector of the Southern Ocean to investigate the biological and chemical conditioning of Sub-Antarctic Mode Water. [Follow along with the cruise blog here](https://blog.bigelow.org/tag/samw21/). I will have limited email access during this period.
 
 <figure style="width: 300px" class="align-right">
   <img src="http://hildeoliver.github.io/assets/fjord.png" alt="">
