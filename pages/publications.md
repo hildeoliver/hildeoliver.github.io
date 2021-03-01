@@ -1,9 +1,10 @@
 **Refereed Publications**
 
-### Submitted
-Smith, W. O., Zhang, W. G., Hirzel, A., Stanley, R. H. R., Meyer, M., Sosik, H. M., Alatalo, P., **Oliver, H.**, Sandwith, Z., Crockford, T., Peacock, E., Mehta, A., & McGillicuddy, D. J. A regional, early spring bloom of Phaeocystis pouchetii on the New England continental shelf.
-
+### In revision
 **Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. Diatom hotspots driven by western boundary current instability.
+
+### 2021
+Smith, W. O., Zhang, W. G., Hirzel, A., Stanley, R. H. R., Meyer, M., Sosik, H. M., Alatalo, P., **Oliver, H.**, Sandwith, Z., Crockford, T., Peacock, E., Mehta, A., & McGillicuddy, D. J. (2021). A Regional, Early Spring Bloom of Phaeocystis pouchetii on the New England Continental Shelf. Journal of Geophysical Research: Oceans, 126(2), 2020JC016856. [https://doi.org/10.1029/2020JC016856](https://doi.org/10.1029/2020JC016856)
 
 ### 2020
 
