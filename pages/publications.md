@@ -1,4 +1,4 @@
-### Refereed Publications
+**Refereed Publications**
 
 ### 2021
 **Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. Diatom hotspots driven by western boundary current instability. *Accepted, Geophysical Research Letters.*
