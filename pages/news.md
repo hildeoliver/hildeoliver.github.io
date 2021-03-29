@@ -1,3 +1,7 @@
+---
+title: "News"
+---
+
 **March 2021**
 - After 78 days away (60 days at sea) and nearly 13,000 nautical miles, I am back in Woods Hole! A huge thanks to everyone on the SAMW team for a fantastic cruise.
 - For International Women's Day, OOI [highlighted](https://oceanobservatories.org/2021/02/hilde-oliver-carrying-on-the-tradition-of-smart-educated-women/) me on their site. 
