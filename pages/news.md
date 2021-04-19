@@ -1,6 +1,8 @@
 ---
 title: "News"
 ---
+**April 2021**
+- On April 14, I gave a seminar to the WHOI AOPE department about subsurface diatom hotspots in the Middle-Atlantic Bight Slope Sea in July 2019 (SPRIOPA cruise TN368).
 
 **March 2021**
 - After 78 days away (60 days at sea) and nearly 13,000 nautical miles, I am back in Woods Hole! A huge thanks to everyone on the SAMW team for a fantastic cruise.
@@ -33,11 +35,11 @@ title: "News"
 - The final draft of my dissertation has been submitted, and all of my degree requirements are done! Thanks to everyone who supported me through this journey. I have now left Athens, and will be taking the next few months off to finish up some manuscripts before starting at WHOI as a Postdoctoral Scholar in October.
 
 **July 2019**
-- I went back to sea in the mid-Atlantic bight with the [SPIROPA](http://science.whoi.edu/users/olga/SPIROPA/SPIROPA.html) team for another two weeks, but this time on the Thomas G. Thompson. Thanks to everyone on board for another great cruise!
+- I went back to sea in the mid-Atlantic bight with the [SPIROPA](http://science.whoi.edu/users/olga/SPIROPA/SPIROPA.html) team for another two weeks, but this time on the Thomas G. Thompson (TN368). Thanks to everyone on board for another great cruise!
 
 **June 2019**
 - I successfully defended my dissertation on June 10. Thank you to my advisors, my committee, and my friends and family for all of their support through these PhD years.
 
 **May 2019**
-- I went to sea (for the first time in nearly five years)! I spent two weeks in the mid-Atlantic bight with the [Shelfbreak Productivity Interdisciplinary Research Operation at the Pioneer Array (SPIROPA)](http://science.whoi.edu/users/olga/SPIROPA/SPIROPA.html) team, with Dennis McGillicuddy as chief scientist. Special thanks to fellow CTD watch leaders Gordon Zhang and Marshall Swartz for all their hard work and patience training me. Looking forward to heading back in July!
+- I went to sea (for the first time in nearly five years)! I spent two weeks in the mid-Atlantic bight with the [Shelfbreak Productivity Interdisciplinary Research Operation at the Pioneer Array (SPIROPA)](http://science.whoi.edu/users/olga/SPIROPA/SPIROPA.html) team on the Ron Brown (RB1904), with Dennis McGillicuddy as chief scientist. Special thanks to fellow CTD watch leaders Gordon Zhang and Marshall Swartz for all their hard work and patience training me. Looking forward to heading back in July!
 - My new first-author paper in GBC is now typeset and ready for consumption. For this study we used a 1-D model to evaluate the importance of light vs. iron as controlling factors on the extremely productive Antarctic polynya in the Amundsen Sea. [GBC PDF here.](https://hildeoliver.github.io/papers/Oliver_et_al-2019-Global_Biogeochemical_Cycles.pdf) This study is complementary to our 3D modeling study published earlier this year in JGR, led by Pierre St-Laurent. [JGR PDF here.](https://hildeoliver.github.io/papers/St-Laurent_et_al-2019-Journal_of_Geophysical_Research__Oceans.pdf)
