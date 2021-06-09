@@ -2,7 +2,7 @@
 title: "News"
 ---
 **June 2021**
-- My first postdoc paper, "Diatom hotspots driven by western boundary current instability," is now published in GRL: [https://doi.org/10.1029/2020GL091943](https://doi.org/10.1029/2020GL091943). In this paper, we present findings of high-chlorophyll, subsurface diatom hotspots driven by intrusions of high-nutrient Gulf Stream water in the MAB slope sea. 
+- My first postdoc paper, "Diatom hotspots driven by western boundary current instability," is now published in GRL: [https://doi.org/10.1029/2020GL091943](https://doi.org/10.1029/2020GL091943). In this paper, we present findings of high-chlorophyll, subsurface diatom hotspots driven by intrusions of high-nutrient Gulf Stream water in the MAB slope sea. This research was [spotlighted in Eos](https://eos.org/research-spotlights/gulf-stream-intrusions-feed-diatom-hot-spots), and featured in a [WHOI press release](https://www.whoi.edu/press-room/news-release/papers-explore-massive-plankton-blooms-with-very-different-ecosystem-impacts/) on phytoplankton blooms found during SPIROPA expeditions to the New England shelf break.
 
 **April 2021**
 - On April 14, I gave a seminar to the WHOI AOPE department about subsurface diatom hotspots in the Middle-Atlantic Bight Slope Sea in July 2019 (SPRIOPA cruise TN368).
