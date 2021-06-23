@@ -1,9 +1,11 @@
 ---
 title: "Refereed Publications"
 ---
+## Submitted
+**Oliver, H.**, Zhang, W. G., Archibald, K. M., Hirzel, A. J., Smith, W. O., Sosik, H. M., Stanley, R. H. R., \& McGillicuddy, D. J. Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification.
 
 ## 2021
-**Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. (2021). Diatom hotspots driven by western boundary current instability. *Geophysical Research Letters,* 48, e2020GL091943. [https://doi.org/10.1029/2020GL091943](https://doi.org/10.1029/2020GL091943)
+**Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A. J., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. (2021). Diatom hotspots driven by western boundary current instability. *Geophysical Research Letters,* 48, e2020GL091943. [https://doi.org/10.1029/2020GL091943](https://doi.org/10.1029/2020GL091943)
 
 Smith, W. O., Zhang, W. G., Hirzel, A., Stanley, R. H. R., Meyer, M., Sosik, H. M., Alatalo, P., **Oliver, H.**, Sandwith, Z., Crockford, T., Peacock, E., Mehta, A., & McGillicuddy, D. J. (2021). A Regional, Early Spring Bloom of Phaeocystis pouchetii on the New England Continental Shelf. *Journal of Geophysical Research: Oceans*, 126(2), 2020JC016856. [https://doi.org/10.1029/2020JC016856](https://doi.org/10.1029/2020JC016856)
 
