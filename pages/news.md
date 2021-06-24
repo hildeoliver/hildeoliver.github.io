@@ -23,7 +23,7 @@ title: "News"
 - New paper out in [JGR](https://doi.org/10.1029/2020JC016185). For this work we combined buoyant plume theory with a biogeochemical model in an idealized fjord-scale ROMS model to assess potential important factors on nutrient export beyond the fjord, and found that subglacial discharge rate, grounding depth, and controls on nutrient residence time could all exert a large influence on transport. [Check out ICEPLUME for ROMS here.](https://github.com/ChuningWang/roms-iceplume)
 
 **February 2020**
-- On Feb. 12 I gave a seminar on my Greenland modeling work to the AOPE Department at WHOI, and on Feb. 21 I gave my early-morning talk at the Ocean Sciences Meeting in San 
+- On Feb. 12 I gave a seminar on my Greenland modeling work to the AOPE Department at WHOI, and on Feb. 21 I presented the fjord-scale work at the Ocean Sciences Meeting in San Diego.
 
 **October 2019**
 - I have started as a Postdoctoral Scholar at Woods Hole Oceanographic, working under the supervision of [Dennis McGillicuddy](https://www2.whoi.edu/staff/dmcgillicuddy/) and [Gordon Zhang](https://www2.whoi.edu/staff/wzhang/). I will be doing physical-biogeochemical modeling in the mid-Atlantic bight during my time here.
