@@ -2,7 +2,7 @@
 title: "News"
 ---
 **June 2021**
-- My first postdoc paper, "Diatom hotspots driven by western boundary current instability," is now published in GRL: [https://doi.org/10.1029/2020GL091943](https://doi.org/10.1029/2020GL091943). In this paper, we present findings of high-chlorophyll, subsurface diatom hotspots driven by intrusions of high-nutrient Gulf Stream water in the MAB slope sea. This research was [spotlighted in Eos](https://eos.org/research-spotlights/gulf-stream-intrusions-feed-diatom-hot-spots), and featured in a [WHOI press release](https://www.whoi.edu/press-room/news-release/papers-explore-massive-plankton-blooms-with-very-different-ecosystem-impacts/) on phytoplankton blooms found during SPIROPA expeditions to the New England shelf break.
+- New paper in GRL- ["Diatom hotspots driven by western boundary current instability"](https://doi.org/10.1029/2020GL091943). In this paper, we present findings of high-chlorophyll, subsurface diatom hotspots driven by intrusions of high-nutrient Gulf Stream water in the MAB slope sea. This research was [spotlighted in Eos](https://eos.org/research-spotlights/gulf-stream-intrusions-feed-diatom-hot-spots), and featured in a [WHOI press release](https://www.whoi.edu/press-room/news-release/papers-explore-massive-plankton-blooms-with-very-different-ecosystem-impacts/) on phytoplankton blooms found during SPIROPA expeditions to the New England shelf break.
 
 **April 2021**
 - On April 14, I gave a seminar to the WHOI AOPE department about subsurface diatom hotspots in the Middle-Atlantic Bight Slope Sea in July 2019 (SPRIOPA cruise TN368).
@@ -20,16 +20,10 @@ title: "News"
 </figure> 
 
 **June 2020**
-- The last chapter from my PhD is [published in JGR](https://doi.org/10.1029/2020JC016185). For this work we combined buoyant plume theory with a biogeochemical model in an idealized fjord-scale ROMS model to assess potential important factors on nutrient export beyond the fjord, and found that subglacial discharge rate, grounding depth, and controls on nutrient residence time could all exert a large influence on transport. [Check out ICEPLUME for ROMS here.](https://github.com/ChuningWang/roms-iceplume)
+- New paper out in [JGR](https://doi.org/10.1029/2020JC016185). For this work we combined buoyant plume theory with a biogeochemical model in an idealized fjord-scale ROMS model to assess potential important factors on nutrient export beyond the fjord, and found that subglacial discharge rate, grounding depth, and controls on nutrient residence time could all exert a large influence on transport. [Check out ICEPLUME for ROMS here.](https://github.com/ChuningWang/roms-iceplume)
 
 **February 2020**
-- On Feb. 12 I gave a seminar on my Greenland modeling work to the AOPE Department at WHOI, and on Feb. 21 I gave my early-morning talk at the Ocean Sciences Meeting in San Diego.
-
-**January 2020**
-- I have registered for the 2020 Ocean Sciences Meeting in San Diego, and will be there all week. I will be presenting the research from the last chapter of my dissertation, where I model meltwater-enhanced nutrient export from Greenland’s glacial fjords. Come by my ~~poster on Thursday, Feb 20 from 4-6~~ **talk from 8:00-8:15 AM on Friday, Feb 21** (session HE51A - Moving Beyond Melt: The Impact of Melting Glaciers, Icebergs, and Sea Ice on Ocean Environments)! 
-
-**December 2019**
-- I've been elected to the [WHOI Women's Committee](https://web.whoi.edu/womens-comm/)! Very excited for this opportunity to ensure better support for all women and non-binary people across this institution.
+- On Feb. 12 I gave a seminar on my Greenland modeling work to the AOPE Department at WHOI, and on Feb. 21 I gave my early-morning talk at the Ocean Sciences Meeting in San 
 
 **October 2019**
 - I have started as a Postdoctoral Scholar at Woods Hole Oceanographic, working under the supervision of [Dennis McGillicuddy](https://www2.whoi.edu/staff/dmcgillicuddy/) and [Gordon Zhang](https://www2.whoi.edu/staff/wzhang/). I will be doing physical-biogeochemical modeling in the mid-Atlantic bight during my time here.
