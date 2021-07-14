@@ -25,7 +25,7 @@ url                      : "https://hildeoliver.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/blue301logo.jpg"
+logo                     : "/assets/WHOIropelogo2020_DarkBlue.png"
 masthead_title           : # " "
 # breadcrumbs            : false # true, false (default)
 #words_per_minute         : 200
