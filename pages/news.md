@@ -1,6 +1,9 @@
 ---
 title: "News"
 ---
+**July 2021**
+- In fall 2021, I will start as an Assistant Scientist at WHOI!
+
 **June 2021**
 - New paper in GRL- ["Diatom hotspots driven by western boundary current instability"](https://doi.org/10.1029/2020GL091943). In this paper, we present findings of high-chlorophyll, subsurface diatom hotspots driven by intrusions of high-nutrient Gulf Stream water in the MAB slope sea. This research was [spotlighted in Eos](https://eos.org/research-spotlights/gulf-stream-intrusions-feed-diatom-hot-spots), and featured in a [WHOI press release](https://www.whoi.edu/press-room/news-release/papers-explore-massive-plankton-blooms-with-very-different-ecosystem-impacts/) on phytoplankton blooms found during SPIROPA expeditions to the New England shelf break.
 
