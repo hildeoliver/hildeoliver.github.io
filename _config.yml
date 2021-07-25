@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Hilde Oliver"
-title_separator          : #"-"
-subtitle                 : #"Physical oceanography and biogeochemistry"
+title                    : "Hilde Oliver"
+title_separator          : "-"
+subtitle                 : "Bio-physical interactions @ WHOI"
 name                     : "Hilde Oliver"
 description              : # "Oceanographer"
 url                      : "https://hildeoliver.github.io"
