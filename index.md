@@ -16,7 +16,7 @@ header:
 excerpt: "Modeling and observing phytoplankton responses to the changing environment"
 ---
 
-I am currently a Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/holiver/), where I am researching how frontal dynamics govern phytoplankton growth in the New England shelfbreak region. During my PhD at the University of Georgia, I studied how glacial meltwater affects subarctic and Antarctic coastal primary productivity.
+I am an interdisciplinary oceanographer studying how climate-sensitive physical features influence marine biogeochemical cycling, especially in the coastal ocean. As a current Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/holiver/), I am investigating how changing circulation influences primary productivity in the Mid-Atlantic Bight and in the Southern Ocean. For my PhD, I focused on how glacial meltwater from the Greenland and West Antarctic Ice Sheets impacts coastal primary productivity. In my free time, I enjoy reading, skating, and exploring Cape Cod with my chiweenie mix, Stanley. 
 
 **In fall 2021, I will be starting as an Assitant Scientist at WHOI!**
 
