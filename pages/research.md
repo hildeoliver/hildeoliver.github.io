@@ -1,3 +1,7 @@
+---
+title: "Research"
+--- 
+
 <figure style="width: 400px" class="align-right">
   <img src="http://hildeoliver.github.io/assets/marine-terminating-glacier.png" alt="">
   <figcaption>Does what happen in fjords stay in fjords? A conceptual diagram of nutrient upwelling by a buoyant plume at the face of a marine-terminating glacier <a href="https://doi.org/10.1029/2020JC016185">(Oliver et al., 2020)</a>.</figcaption>
