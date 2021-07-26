@@ -15,8 +15,15 @@ header:
       url: "https://orcid.org/0000-0002-5507-3333"
 excerpt: "Modeling and observing phytoplankton response to the changing environment"
 ---
+### Current Position
+Postdoctoral Scholar, Woods Hole Oceanographic Institution
 
-I am an interdisciplinary oceanographer interested in how climate-sensitive physical features influence marine biogeochemical cycling, especially in dynamic coastal and frontal regions. I am currently a Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/holiver/), where I am investigating how changing circulation influences primary productivity near the New England shelfbreak. For my PhD, I focused on how glacial meltwater from the Greenland and West Antarctic Ice Sheets impacts coastal primary productivity. In my free time, I enjoy reading, skating, and exploring Cape Cod with my chiweenie mix, Stanley. 
+### Education
+PhD in Marine Sciences, University of Georgia, 2019
+
+BS in Mathematics, University of South Carolina, 2014
+
+**About me:** I am an interdisciplinary oceanographer interested in how climate-sensitive physical features influence marine biogeochemical cycling, especially in dynamic coastal and frontal regions. As a Postdoctoral Scholar at [WHOI](https://www.whoi.edu/profile/holiver/), I am investigating how changing circulation influences primary productivity near the New England shelfbreak, using a combination of models and data from the [Shelfbreak Productivity Interdisciplinary Research Operation at the Pioneer Array (SPIROPA)](https://www.bco-dmo.org/project/748894) and the [Ocean Observatories Initiative (OOI)](https://oceanobservatories.org). For my PhD, I focused on how glacial meltwater from the Greenland and West Antarctic Ice Sheets impacts coastal primary productivity. In my free time, I enjoy reading, skating, and exploring Cape Cod with my chiweenie mix, Stanley. 
 
 **Update: In fall 2021, I will be starting as an Assitant Scientist at WHOI!**
 
