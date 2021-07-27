@@ -1,6 +1,6 @@
 ---
 title: "Hilde Oliver"
-layout: splash
+layout: single
 author_profile: true
 header:
   overlay_color: "#000"
