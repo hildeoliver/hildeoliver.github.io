@@ -2,11 +2,11 @@
 main:
   - title: "Publications"
     url: https://hildeoliver.github.io/pages/publications
-  - title: "Research"
-    url: https://hildeoliver.github.io/pages/research
   - title: "News"
     url: https://hildeoliver.github.io/pages/news
-# - title: "About"
+  #- title: "Research"
+  #  url: https://hildeoliver.github.io/pages/research
+    # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
