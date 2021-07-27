@@ -17,7 +17,6 @@ excerpt: "Modeling and observing phytoplankton response to the changing environm
 ---
 ### Current Position
 Postdoctoral Scholar, Woods Hole Oceanographic Institution
-
 ### Education
 PhD in Marine Sciences, University of Georgia, 2019\
 BS in Mathematics, University of South Carolina, 2014
