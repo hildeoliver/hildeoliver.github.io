@@ -2,6 +2,8 @@
 title: "Refereed Publications"
 ---
 ## Submitted
+**Oliver, H**, Slater, D., Carroll, D., Wood, M., Morlighem, M, & Hopwood, M. J. The emergence of Greenland discharge as a driver of hotspots of increasing coastal primary production.
+  
 **Oliver, H.**, Zhang, W. G., Archibald, K. M., Hirzel, A. J., Smith, W. O., Sosik, H. M., Stanley, R. H. R., & McGillicuddy, D. J. Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification.
 
 ## 2021
