@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/IMG_5060.png
+  overlay_image: /assets/currents_large.gif
   actions:
     - label: "CV"
       url: "https://hildeoliver.github.io/assets/OliverH_CV.pdf"
