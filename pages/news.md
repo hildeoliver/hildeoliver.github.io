@@ -1,6 +1,9 @@
 ---
 title: "News"
 ---
+**December 2021**
+- I am heading to the Amundsen Sea for the ARTEMIS project (January 2 - March 9) and will have limited email access during this period.
+
 **July 2021**
 - In fall 2021, I will start as an Assistant Scientist at WHOI!
 
