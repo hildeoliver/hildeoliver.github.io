@@ -1,8 +1,11 @@
 ---
 title: "News"
 ---
+**January 2021**
+- Our new SPIROPA paper is now out in JGR: ["Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification"](https://doi.org/10.1029/2021JC017715).
+
 **December 2021**
-- I am heading to the Amundsen Sea for the ARTEMIS project (January 2 - March 9) and will have limited email access during this period.
+- I am heading to the Amundsen Sea for the ARTEMIS project (January 2 - March 9) and will have limited email access during this period. During this time, the best way to reach me is at hilde.oliver.guest at nbp.usap.gov
 
 **July 2021**
 - In fall 2021, I will start as an Assistant Scientist at WHOI!
