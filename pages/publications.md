@@ -2,9 +2,12 @@
 title: "Refereed Publications"
 ---
 ## Submitted
+Slater, D., Carroll, D., Oliver, H., Hopwood, M. J., Straneo, F., Wood, M., Willis, J., & Morlighem, M. (Submitted). Characteristic depths, fluxes and timescales for Greenland’s tidewater glacier fjords during summer.
+
 **Oliver, H**, Slater, D., Carroll, D., Wood, M., Morlighem, M, & Hopwood, M. J. The emergence of Greenland discharge as a driver of hotspots of increasing coastal primary production.
-  
-**Oliver, H.**, Zhang, W. G., Archibald, K. M., Hirzel, A. J., Smith, W. O., Sosik, H. M., Stanley, R. H. R., & McGillicuddy, D. J. Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification.
+
+## 2022
+**Oliver, H.**, Zhang, W. G., Archibald, K. M., Hirzel, A. J., Smith, W. O., Sosik, H. M., Stanley, R. H. R., & McGillicuddy, D. J. (2022). Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification. *Journal of Geophysical Research: Oceans*, 127, e2021JC017715. [ https://doi.org/10.1029/2021JC017715](https://doi.org/10.1029/2021JC017715)
 
 ## 2021
 **Oliver, H.**, Zhang, W. G., Smith, W. O., Alatalo, P., Chappell, P. D., Hirzel, A. J., Selden, C. R., Sosik, H. M., Stanley, R. H. R., Zhu, Y., & McGillicuddy, D. J. (2021). Diatom hotspots driven by western boundary current instability. *Geophysical Research Letters,* 48, e2020GL091943. [https://doi.org/10.1029/2020GL091943](https://doi.org/10.1029/2020GL091943)
