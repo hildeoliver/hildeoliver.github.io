@@ -5,7 +5,7 @@ title: "Refereed Publications"
 **Oliver, H**, Slater, D., Carroll, D., Wood, M., Morlighem, M, & Hopwood, M. J. The emergence of Greenland discharge as a driver of hotspots of increasing coastal primary production.
 
 ## 2022
-Slater, D. A., Carroll, D., **Oliver, H.**, Hopwood, M. J., Straneo, F., Wood, M., et al. (2022). Characteristic depths, fluxes, and timescales for Greenland's tidewater glacier fjords from subglacial discharge-driven upwelling during summer. Geophysical Research Letters, 49, e2021GL097081. https://doi.org/10.1029/2021GL097081 
+Slater, D. A., Carroll, D., **Oliver, H.**, Hopwood, M. J., Straneo, F., Wood, M., et al. (2022). Characteristic depths, fluxes, and timescales for Greenland's tidewater glacier fjords from subglacial discharge-driven upwelling during summer. Geophysical Research Letters, 49, e2021GL097081. [https://doi.org/10.1029/2021GL097081](https://doi.org/10.1029/2021GL097081).
  
 **Oliver, H.**, Zhang, W. G., Archibald, K. M., Hirzel, A. J., Smith, W. O., Sosik, H. M., Stanley, R. H. R., & McGillicuddy, D. J. (2022). Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification. *Journal of Geophysical Research: Oceans*, 127, e2021JC017715. [ https://doi.org/10.1029/2021JC017715](https://doi.org/10.1029/2021JC017715)
 
