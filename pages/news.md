@@ -2,7 +2,8 @@
 title: "News"
 ---
 **May 2022**
-- Check out our new paper characterizing buoyant plume dynamics across Greenland, led by Donald Slater ["Characteristic depths, fluxes, and timescales for Greenland's tidewater glacier fjords from subglacial discharge-driven upwelling during summer"](https://doi.org/10.1029/2021GL097081). Watch Donald's IGS seminar on this work [here](https://www.youtube.com/watch?v=yhcNP__BZsg). 
+- Check out our new paper characterizing buoyant plume dynamics across Greenland, led by Donald Slater ["Characteristic depths, fluxes, and timescales for Greenland's tidewater glacier fjords from subglacial discharge-driven upwelling during summer"](https://doi.org/10.1029/2021GL097081). Watch Donald's IGS seminar on this work [here](https://www.youtube.com/watch?v=yhcNP__BZsg). **[(Article PDF)](https://hildeoliver.github.io/papers/Geophysical Research Letters - 2022 - Slater - Characteristic Depths Fluxes and Timescales for Greenland s Tidewater.pdf)** 
+ 
 
 **January 2022**
 - Our new SPIROPA paper is now out in JGR: ["Ephemeral surface chlorophyll enhancement at the New England shelf break driven by Ekman restratification"](https://doi.org/10.1029/2021JC017715).
