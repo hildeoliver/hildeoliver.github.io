@@ -1,6 +1,9 @@
 ---
 title: "News"
 ---
+**August 2022**
+- Sheila was extraordinarily kind and put together a new website for me! Look for future updates at [https://www2.whoi.edu/staff/holiver/](https://www2.whoi.edu/staff/holiver/).
+
 **May 2022**
 - Check out our new paper characterizing buoyant plume dynamics across Greenland, led by Donald Slater ["Characteristic depths, fluxes, and timescales for Greenland's tidewater glacier fjords from subglacial discharge-driven upwelling during summer"](https://doi.org/10.1029/2021GL097081). Watch Donald's IGS seminar on this work [here](https://www.youtube.com/watch?v=yhcNP__BZsg). **[(Article PDF)](https://hildeoliver.github.io/papers/Geophysical Research Letters - 2022 - Slater - Characteristic Depths Fluxes and Timescales for Greenland s Tidewater.pdf)** 
  
