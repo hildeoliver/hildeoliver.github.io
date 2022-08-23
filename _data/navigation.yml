@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Publications"
-    url: https://hildeoliver.github.io/pages/publications
-  - title: "News"
-    url: https://hildeoliver.github.io/pages/news
+  #- title: "Publications"
+  #  url: https://hildeoliver.github.io/pages/publications
+  #- title: "News"
+ #   url: https://hildeoliver.github.io/pages/news
   #- title: "Research"
   #  url: https://hildeoliver.github.io/pages/research
     # - title: "About"
